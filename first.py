@@ -1,5 +1,5 @@
 name = input("Enter your name: ")
-nots= input("write your notes: ")
+notes= input("write your notes: ")
 
 with open("file.txt","w")as f:
     f.write("-----------------\n")
